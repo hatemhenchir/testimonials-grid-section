@@ -27,7 +27,7 @@ This project is a solution to the Testimonial Grid Section Challenge from Fronte
 
 ### Links
 
-- [Live Demo](https://your-live-demo-link.com)
+- [Live Demo](https://testimonials-grid-section-hatemhenchir.vercel.app/)
 - [Frontend Mentor Challenge Page](https://www.frontendmentor.io/challenges/testimonial-grid-section-Nnw6J7Un7)
 
 ## Technologies Used
